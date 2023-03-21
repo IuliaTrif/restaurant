@@ -1,0 +1,34 @@
+body {
+    background-image: url('images/contact.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+div.contact-text {
+    color: gray(30);
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 310px;
+}
+
+.tc-pp-cp {
+    color: gray(30);
+    font-size: 17px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+div.hours {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+div.address {
+    font-size: 19px;
+    text-align: center;
+}

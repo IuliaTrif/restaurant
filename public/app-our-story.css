@@ -1,0 +1,33 @@
+body {
+    background-image: url('images/dessert-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+div.our-story-title {
+    color: papayawhip;
+    font-family: cursive;
+    text-decoration: underline;
+    font-size: 46px;
+    margin-top: -20px;
+    margin-left: 800px;
+}
+
+div.our-story-text {
+    color: papayawhip;
+    font-family: cursive;
+    margin-top: -18px;
+    margin-left: 500px;
+    margin-right: 100px;
+}
+
+div.back-home-from-our-story {
+    font-size: 16px;
+    margin-top: 270px;
+    margin-left: 120px;
+}
+a {
+    color: papayawhip;
+    font-size: 20px;
+}
